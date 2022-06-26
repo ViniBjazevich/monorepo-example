@@ -11,6 +11,7 @@ You should now be able to push your fullstack app to github
 
 ## Start Application:
 - Install Dependencies and run both client and server:
+- - Set up client:
   * $ cd client
   * $ npm install
   * $ npm start
